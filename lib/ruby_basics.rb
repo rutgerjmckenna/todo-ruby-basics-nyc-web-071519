@@ -7,8 +7,9 @@ def assign_variable(value)
   value
 end
 
-def argue
-  
+def argue(phrase)
+  phrase = "I am right and you are wrong!"
+  phrase
 end
 
 def greeting
