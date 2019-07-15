@@ -15,7 +15,7 @@ end
 def greeting(greeting, name)
   greeting = "Hi there, "
   name = "Bobby!"
-  greeting name 
+  greeting + name 
 end
 
 def return_a_value
